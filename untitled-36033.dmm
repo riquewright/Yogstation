@@ -1,0 +1,1481 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aj" = (
+/obj/item/stack/sheet/mineral/uranium{
+	mats_per_stack = 40000
+	},
+/turf/open/floor/plasteel/airless,
+/area/space)
+"ao" = (
+/obj/machinery/power/smes/fullycharged,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel,
+/area/space)
+"aU" = (
+/obj/structure/fluff/broken_flooring/side,
+/turf/template_noop,
+/area/template_noop)
+"bp" = (
+/obj/item/keycard,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"bN" = (
+/turf/open/floor/plating/broken/two,
+/area/space)
+"cz" = (
+/obj/structure/sign/poster/abductor/ayylian,
+/turf/closed/wall/r_wall,
+/area/space)
+"cB" = (
+/obj/structure/sign/poster/official/firstsingularity,
+/turf/closed/indestructible/vault,
+/area/space)
+"de" = (
+/obj/structure/fluff/broken_flooring/pile,
+/turf/open/floor/mineral/titanium/airless/broken,
+/area/space)
+"dg" = (
+/obj/machinery/recycler,
+/turf/open/floor/plasteel,
+/area/space)
+"eJ" = (
+/obj/machinery/gibber,
+/turf/open/floor/plasteel,
+/area/space)
+"eP" = (
+/obj/item/worldplate,
+/turf/open/floor/mineral/titanium/airless/broken/four,
+/area/space)
+"fX" = (
+/obj/structure/closet/crate/secure/loot,
+/turf/open/floor/plasteel,
+/area/space)
+"ge" = (
+/obj/structure/showcase/machinery/cloning_pod,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel,
+/area/space)
+"gJ" = (
+/mob/living/simple_animal/hostile/hivebot,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"gR" = (
+/obj/machinery/mineral/unloading_machine,
+/turf/open/floor/plasteel,
+/area/space)
+"hc" = (
+/obj/structure/lattice,
+/turf/open/floor/plating/asteroid/airless,
+/area/space/nearstation)
+"hi" = (
+/obj/effect/decal/cleanable/ash/large,
+/turf/open/floor/plasteel,
+/area/space)
+"hj" = (
+/turf/open/floor/plating/broken,
+/area/space)
+"ib" = (
+/obj/structure/grille,
+/obj/structure/window/plastitanium,
+/turf/open/floor/engine,
+/area/space)
+"id" = (
+/obj/structure/sign/poster/abductor/ayy_over_tizira,
+/turf/closed/indestructible/vault,
+/area/space)
+"iH" = (
+/obj/machinery/computer{
+	desc = "What was once used to oversee the assembly of the Preternis, waiting for the return of it's master.";
+	dir = 4;
+	icon_state = "computer";
+	name = "Assembly Oversight Console"
+	},
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel,
+/area/space)
+"jk" = (
+/obj/effect/decal/cleanable/robot_debris/limb,
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plasteel,
+/area/space)
+"jC" = (
+/obj/machinery/power/terminal,
+/turf/open/floor/plasteel,
+/area/space)
+"kS" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-617B";
+	real_name = "Unit Pr'Terni-617B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"lm" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/blood,
+/obj/effect/mine/stun/smart/heavy,
+/turf/open/floor/plasteel,
+/area/space)
+"lI" = (
+/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plasteel,
+/area/space)
+"lP" = (
+/obj/structure/sign/poster/official/enlist,
+/turf/closed/wall/mineral/titanium/interior,
+/area/space)
+"lS" = (
+/obj/effect/decal/cleanable/robot_debris/old,
+/turf/open/floor/plasteel,
+/area/space)
+"mz" = (
+/obj/effect/decal/cleanable/blood/hitsplatter,
+/turf/open/floor/plasteel,
+/area/space)
+"nz" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/structure/showcase,
+/turf/open/floor/plasteel,
+/area/space)
+"nU" = (
+/obj/machinery/computer/cloning,
+/turf/open/floor/plasteel,
+/area/space)
+"oj" = (
+/obj/structure/closet/crate/sphere,
+/obj/item/stack/spacecash/c200,
+/turf/open/floor/plasteel,
+/area/space)
+"oA" = (
+/obj/effect/decal/remains/robot,
+/turf/open/floor/plasteel,
+/area/space)
+"oW" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/obj/item/paper/crumpled/bloody/ruins,
+/turf/open/floor/plasteel,
+/area/space)
+"pF" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plasteel,
+/area/space)
+"pJ" = (
+/obj/structure/fluff/broken_flooring/plating,
+/turf/template_noop,
+/area/space)
+"pV" = (
+/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/blood/footprints,
+/obj/effect/decal/cleanable/robot_debris/old,
+/turf/open/floor/plasteel,
+/area/space)
+"pZ" = (
+/obj/item/worldplate,
+/obj/effect/decal/cleanable/oil,
+/turf/open/floor/plasteel/burnt,
+/area/space)
+"qi" = (
+/obj/machinery/keycard_auth,
+/turf/closed/indestructible/vault,
+/area/space)
+"qx" = (
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plasteel,
+/area/space)
+"qS" = (
+/obj/structure/barricade/sandbags,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plasteel/burnt/two,
+/area/space)
+"rK" = (
+/obj/item/weldingtool/experimental{
+	desc = "An experimental welder capable of self-fuel gen- oh, its fuel tank was hit by a bullet.";
+	max_fuel = 0
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"rT" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel,
+/area/space)
+"tW" = (
+/obj/machinery/door/airlock/external/glass,
+/turf/open/floor/mineral/titanium/airless/broken/five,
+/area/space)
+"ub" = (
+/turf/closed/wall/mineral/titanium/interior,
+/area/space)
+"ug" = (
+/mob/living/simple_animal/hostile/hivebot/rapid,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"un" = (
+/turf/open/floor/plating/asteroid/airless,
+/area/space)
+"uC" = (
+/turf/template_noop,
+/area/template_noop)
+"vj" = (
+/turf/open/floor/plasteel/airless,
+/area/space)
+"vs" = (
+/obj/structure/showcase/horrific_experiment,
+/turf/open/floor/plasteel,
+/area/space)
+"vN" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-613A";
+	real_name = "Unit Pr'Terni-613A"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel,
+/area/space)
+"vS" = (
+/obj/structure/lattice,
+/obj/structure/lattice,
+/turf/template_noop,
+/area/space/nearstation)
+"vY" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/obj/machinery/door/keycard,
+/turf/open/floor/plasteel,
+/area/space)
+"wD" = (
+/obj/machinery/conveyor_switch/oneway,
+/turf/open/floor/plasteel,
+/area/space)
+"wH" = (
+/obj/structure/barricade/sandbags,
+/turf/open/floor/plasteel,
+/area/space)
+"xv" = (
+/obj/machinery/droneDispenser,
+/turf/open/floor/plasteel,
+/area/space)
+"yh" = (
+/obj/item/stack/sheet/mineral/plasma/fifty,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"yS" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plasteel/broken/two,
+/area/space)
+"zW" = (
+/turf/closed/mineral,
+/area/space)
+"Ab" = (
+/obj/effect/decal/cleanable/blood/gibs/up,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/burnt,
+/area/space)
+"Ap" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/hatch{
+	name = "Dormant Facility"
+	},
+/turf/open/floor/engine,
+/area/space)
+"Bk" = (
+/obj/machinery/plate_press,
+/turf/open/floor/plasteel,
+/area/space)
+"CG" = (
+/obj/machinery/mineral/stacking_unit_console,
+/turf/closed/wall/r_wall,
+/area/space)
+"Df" = (
+/turf/closed/indestructible/vault,
+/area/space)
+"Dh" = (
+/obj/structure/closet/secure_closet/hos,
+/obj/item/melee/vxtvulhammer{
+	armour_penetration = 10;
+	block_chance = 15;
+	desc = "This one seems to have worn and rusted away from the centuries without proper maintenance.";
+	force_wielded = 12;
+	name = "Worn Vxtvul Hammer"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"DP" = (
+/turf/open/floor/plasteel/broken/three,
+/area/space)
+"Fa" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-614B";
+	real_name = "Unit Pr'Terni-614B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"Fh" = (
+/obj/item/stack/sheet/mineral/diamond,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"Fv" = (
+/turf/open/floor/plasteel,
+/area/space)
+"Gz" = (
+/obj/item/pod_parts/armor/security,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"GG" = (
+/obj/item/reagent_containers/glass/bottle/vial,
+/turf/open/floor/plasteel,
+/area/space)
+"II" = (
+/obj/machinery/power/smes/fullycharged,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel,
+/area/space)
+"IT" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-618B";
+	real_name = "Unit Pr'Terni-618B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"Jv" = (
+/obj/effect/decal/cleanable/oil,
+/turf/open/floor/plating/broken/three,
+/area/space)
+"JA" = (
+/obj/machinery/door/airlock/hatch{
+	name = "Dormant Facility"
+	},
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plasteel,
+/area/space)
+"Kl" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-616B";
+	real_name = "Unit Pr'Terni-616B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"KP" = (
+/obj/machinery/power/rtg/advanced,
+/turf/open/floor/plasteel,
+/area/space)
+"KX" = (
+/obj/effect/mine/stun/smart,
+/turf/open/floor/plasteel,
+/area/space)
+"Le" = (
+/obj/structure/sign/poster/abductor/ayy_over_tizira,
+/turf/closed/wall/r_wall,
+/area/space)
+"Lg" = (
+/turf/closed/wall/r_wall,
+/area/space)
+"Lp" = (
+/obj/structure/plasticflaps/opaque,
+/turf/open/floor/plasteel,
+/area/space)
+"Lw" = (
+/obj/item/shard,
+/obj/effect/decal/cleanable/robot_debris/gib,
+/obj/effect/decal/cleanable/blood/gibs/core,
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plasteel,
+/area/space)
+"LW" = (
+/obj/structure/fluff/broken_flooring/single,
+/turf/template_noop,
+/area/template_noop)
+"MV" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/space/nearstation)
+"Nh" = (
+/obj/item/stack/conveyor,
+/obj/item/bodypart/l_leg/robot/digitigrade,
+/turf/open/floor/plasteel,
+/area/space)
+"Nr" = (
+/obj/structure/barricade/sandbags,
+/obj/item/worldplate,
+/turf/open/floor/plasteel,
+/area/space)
+"Nx" = (
+/obj/machinery/power/smes/fullycharged,
+/turf/open/floor/plasteel,
+/area/space)
+"NY" = (
+/obj/structure/closet/crate/sphere,
+/obj/item/stack/spacecash/c500,
+/turf/open/floor/plasteel,
+/area/space)
+"Og" = (
+/obj/structure/closet/crate/sphere,
+/obj/item/stack/spacecash/c100,
+/obj/item/stack/spacecash/c100,
+/turf/open/floor/plasteel,
+/area/space)
+"Or" = (
+/obj/effect/decal/cleanable/blood,
+/turf/open/floor/plasteel/broken,
+/area/space)
+"Ow" = (
+/obj/item/stack/conveyor,
+/obj/item/organ/brain,
+/turf/open/floor/plasteel,
+/area/space)
+"Qe" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-619B";
+	real_name = "Unit Pr'Terni-619B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"RT" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-620B";
+	real_name = "Unit Pr'Terni-620B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"SP" = (
+/turf/closed/wall/r_wall/rust,
+/area/space)
+"To" = (
+/obj/structure/lattice,
+/turf/closed/mineral,
+/area/space)
+"TK" = (
+/obj/structure/fluff/broken_flooring/pile,
+/turf/open/floor/mineral/titanium/airless/broken/two,
+/area/space)
+"Ug" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plasteel,
+/area/space)
+"UG" = (
+/obj/item/stack/sheet/mineral/silver,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"UX" = (
+/obj/structure/mecha_wreckage/marauder,
+/turf/open/floor/plasteel,
+/area/space)
+"UY" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-613B";
+	real_name = "Unit Pr'Terni-613B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"WJ" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/plasteel,
+/area/space)
+"Xa" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/plasteel,
+/area/space)
+"Xv" = (
+/mob/living/carbon/human/species/preternis{
+	name = "Unit Pr'Terni-615B";
+	real_name = "Unit Pr'Terni-615B"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"Xw" = (
+/obj/item/stack/sheet/plasteel/twenty,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"Xx" = (
+/obj/item/stack/sheet/metal/fifty,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"XO" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plasteel,
+/area/space)
+"XZ" = (
+/obj/structure/sign/poster/abductor/ayy_piping,
+/turf/closed/wall/r_wall,
+/area/space)
+"Yd" = (
+/obj/item/stack/sheet/metal/twenty,
+/turf/open/floor/plasteel/airless,
+/area/space)
+"Yk" = (
+/obj/machinery/smartfridge/organ,
+/turf/open/floor/plasteel,
+/area/space)
+"YI" = (
+/obj/item/stack/conveyor,
+/turf/open/floor/plasteel,
+/area/space)
+"Zi" = (
+/obj/structure/rack,
+/obj/item/organ/eyes/robotic/preternis,
+/turf/open/floor/plasteel,
+/area/space)
+"ZQ" = (
+/obj/structure/guncase/shotgun,
+/turf/open/floor/plasteel,
+/area/space)
+
+(1,1,1) = {"
+uC
+uC
+uC
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+LW
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(2,1,1) = {"
+uC
+uC
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(3,1,1) = {"
+uC
+zW
+zW
+zW
+Lg
+Lg
+Lg
+zW
+zW
+zW
+zW
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+pJ
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(4,1,1) = {"
+zW
+zW
+zW
+Lg
+gJ
+Xw
+UG
+Lg
+zW
+zW
+zW
+uC
+uC
+uC
+uC
+LW
+aU
+bN
+de
+LW
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(5,1,1) = {"
+zW
+zW
+Lg
+vj
+aj
+bp
+Fh
+Lg
+zW
+zW
+To
+uC
+uC
+uC
+uC
+pJ
+eP
+TK
+Jv
+pJ
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(6,1,1) = {"
+zW
+zW
+Lg
+Gz
+ug
+yh
+aj
+Lg
+zW
+zW
+MV
+uC
+uC
+uC
+uC
+ub
+lP
+tW
+ub
+hj
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(7,1,1) = {"
+zW
+zW
+Lg
+Xw
+Yd
+vj
+Lg
+zW
+zW
+zW
+MV
+uC
+uC
+uC
+uC
+SP
+SP
+Ap
+Lg
+Lg
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(8,1,1) = {"
+zW
+zW
+Lg
+Xx
+vj
+Lg
+zW
+zW
+To
+MV
+MV
+MV
+hc
+un
+un
+ib
+Ab
+yS
+DP
+ib
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(9,1,1) = {"
+zW
+zW
+zW
+Lg
+Lg
+zW
+zW
+zW
+MV
+uC
+uC
+zW
+To
+zW
+zW
+SP
+Nr
+qS
+UX
+Lg
+zW
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(10,1,1) = {"
+zW
+zW
+zW
+zW
+zW
+zW
+To
+MV
+vS
+uC
+zW
+zW
+SP
+SP
+SP
+Lg
+Or
+Fv
+pZ
+Lg
+zW
+zW
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(11,1,1) = {"
+uC
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+MV
+zW
+zW
+SP
+SP
+II
+jC
+Lg
+pV
+wH
+wH
+SP
+zW
+zW
+zW
+un
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(12,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+hc
+To
+Lg
+Lg
+Nx
+jC
+KX
+qx
+Xa
+Xa
+Fv
+SP
+zW
+zW
+zW
+un
+un
+uC
+uC
+uC
+uC
+uC
+"}
+(13,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+un
+zW
+zW
+Lg
+ao
+jC
+Fv
+KP
+SP
+Fv
+Ug
+mz
+SP
+zW
+zW
+zW
+zW
+un
+uC
+uC
+uC
+uC
+uC
+"}
+(14,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+un
+zW
+zW
+Lg
+Lg
+Le
+SP
+SP
+SP
+Fv
+jk
+lS
+Lg
+zW
+zW
+zW
+zW
+zW
+un
+uC
+uC
+uC
+uC
+"}
+(15,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+un
+un
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+SP
+nz
+Xa
+oA
+Lg
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+uC
+"}
+(16,1,1) = {"
+uC
+uC
+uC
+uC
+zW
+zW
+zW
+zW
+zW
+Lg
+Lg
+XZ
+Lg
+CG
+Lg
+SP
+SP
+pF
+Lg
+Lg
+CG
+Lg
+Lg
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+"}
+(17,1,1) = {"
+uC
+uC
+uC
+zW
+zW
+zW
+zW
+zW
+zW
+Lg
+Fv
+Fv
+Fv
+WJ
+Fv
+hi
+Fv
+lI
+Xa
+ib
+iH
+WJ
+Df
+Df
+Df
+Df
+zW
+zW
+zW
+uC
+"}
+(18,1,1) = {"
+uC
+uC
+uC
+zW
+zW
+Lg
+Lg
+Lg
+Lg
+Lg
+Fv
+eJ
+Fv
+nU
+Fv
+dg
+Fv
+Zi
+Xa
+JA
+Fv
+Fv
+Df
+rK
+Dh
+Df
+Df
+zW
+zW
+uC
+"}
+(19,1,1) = {"
+uC
+uC
+un
+zW
+zW
+Lg
+IT
+Qe
+RT
+Lg
+Fv
+YI
+Yk
+Yk
+Yk
+YI
+Fv
+YI
+lI
+ib
+wD
+wD
+Df
+vN
+GG
+ZQ
+Df
+zW
+zW
+uC
+"}
+(20,1,1) = {"
+uC
+uC
+un
+zW
+zW
+cz
+kS
+Kl
+Xv
+Lp
+YI
+YI
+vs
+ge
+Lw
+YI
+YI
+YI
+Xa
+Df
+Df
+id
+Df
+oW
+Fv
+ZQ
+Df
+zW
+zW
+uC
+"}
+(21,1,1) = {"
+uC
+uC
+un
+zW
+zW
+Lg
+Fv
+UY
+Fa
+Lg
+Fv
+YI
+YI
+YI
+Ow
+YI
+Fv
+gR
+Xa
+Df
+oj
+NY
+Og
+XO
+Fv
+Df
+Df
+zW
+zW
+uC
+"}
+(22,1,1) = {"
+uC
+uC
+un
+zW
+zW
+Lg
+Fv
+Fv
+Fv
+qx
+Fv
+Fv
+Fv
+Fv
+Fv
+Fv
+Fv
+YI
+Ug
+vY
+lm
+XO
+XO
+XO
+Df
+Df
+zW
+zW
+zW
+uC
+"}
+(23,1,1) = {"
+uC
+uC
+un
+zW
+zW
+Lg
+fX
+fX
+fX
+SP
+Fv
+xv
+Nh
+Nh
+YI
+YI
+Bk
+YI
+Fv
+Df
+qi
+Df
+cB
+Df
+Df
+zW
+zW
+zW
+uC
+uC
+"}
+(24,1,1) = {"
+uC
+uC
+un
+un
+zW
+Lg
+Lg
+Lg
+SP
+SP
+rT
+Fv
+Fv
+Fv
+Fv
+Fv
+Fv
+Fv
+Fv
+Lg
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+"}
+(25,1,1) = {"
+uC
+uC
+uC
+un
+zW
+zW
+zW
+zW
+zW
+SP
+SP
+SP
+Le
+Lg
+Lg
+Lg
+Lg
+Lg
+Lg
+Lg
+zW
+zW
+zW
+zW
+zW
+zW
+uC
+uC
+uC
+uC
+"}
+(26,1,1) = {"
+uC
+uC
+uC
+un
+un
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+un
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(27,1,1) = {"
+uC
+uC
+uC
+uC
+un
+un
+un
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+zW
+un
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(28,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+un
+un
+un
+un
+un
+zW
+zW
+zW
+zW
+zW
+un
+un
+un
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(29,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+un
+un
+un
+un
+un
+un
+un
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
+(30,1,1) = {"
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+uC
+"}
